@@ -1,0 +1,27 @@
+{
+  "name": "basic-check",
+  "version": "1.0.0",
+  "description": "A really basic check data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sedinson/basic-check.git"
+  },
+  "keywords": [
+    "basic",
+    "check",
+    "data"
+  ],
+  "author": "Edinson Salas <edinsonsalas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sedinson/basic-check/issues"
+  },
+  "homepage": "https://github.com/sedinson/basic-check#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
